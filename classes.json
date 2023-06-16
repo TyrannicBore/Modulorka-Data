@@ -1,0 +1,1284 @@
+{
+    "Classes": [
+        {
+            "Name": "REBEL",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "DA REVOLUSHUN WIL LIV ON!"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "W.A.R.G.",
+                "TROOPS",
+                "FEEBLE",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "KOMMANDANT",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "DA REVOLUSHUN WIL LIV ON!",
+                "MORE EQUAL DEN OVERZ",
+                "GIV YER LIFE FER DA CAUZE"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "W.A.R.G.",
+                "HERO",
+                "FRAGILE",
+                "LEADER",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GOB-TANK",
+            "Points": 6,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 2,
+            "StartingGear":[
+                "RAM"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "DA REVOLUSHUN WIL LIV ON!",
+                "EXPLOSIVE",
+                "RAM"
+            ],
+            "Keywords":[
+                "W.A.R.G.",
+                "VEHICLE",
+                "EXPLOSIVE",
+                "SLOW",
+                "STEADFAST"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "DIRT BIKAZ",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "AGILE",
+                "MOUNTED"
+            ],
+            "Keywords":[
+                "ORC",
+                "SPEEDKULT",
+                "TROOPS",
+                "FAST",
+                "MOUNTED",
+                "RASH"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "SPEED KULTISTZ",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "AGILE"
+            ],
+            "Keywords":[
+                "ORC",
+                "SPEEDKULT",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "BOSS-BIKA",
+            "Points": 10,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 6,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "AGILE",
+                "MOUNTED",
+                "JET-RAM"
+            ],
+            "Keywords":[
+                "ORC",
+                "SPEEDKULT",
+                "HERO",
+                "FAST",
+                "LEADER",
+                "MOUNTED",
+                "RASH"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "SPEED-BOSS",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 8,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "AGILE"
+            ],
+            "Keywords":[
+                "ORC",
+                "SPEEDKULT",
+                "HERO",
+                "BULKY",
+                "FRAGILE",
+                "LEADER",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "BIKA-GOBZ",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 1,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "AGILE",
+                "MOUNTED"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "SPEEDKULT",
+                "TROOPS",
+                "FAST",
+                "FRAGILE",
+                "MOUNTED",
+                "RASH"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "SPEED-GOBZ",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "AGILE"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "SPEEDKULT",
+                "TROOPS",
+                "FEEBLE",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "LADZ",
+            "Faction": "HORDE",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                 "FISTS" 
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "ORC",
+                "HORDE",
+                "TROOPS",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GOB-LADZ",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "HORDE",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "ARMA-BOSS",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 5,
+            "Carry": 2,
+            "Armor": 1,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "ORC",
+                "HORDE",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "TRUCK",
+            "Points": 8,
+            "Aim": 2,
+            "Clobba": 2,
+            "HP": 8,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "RAM"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+                "TRANSPORT",
+                "EXPLOSIVE",
+                "RAM"
+            ],
+            "Keywords":[
+                "HORDE",
+                "VEHICLE",
+                "BATTLEBUS",
+                "OPENTOP",
+                "STEADFAST",
+                "TRANSPORT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "TRAKK-BIKE",
+            "Points": 4,
+            "Aim": 2,
+            "Clobba": 2,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "RAM"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+                "TRANSPORT",
+                "EXPLOSIVE",
+                "RAM",
+                "PACK 'EM IN"
+            ],
+            "Keywords":[
+                "HORDE",
+                "VEHICLE",
+                "BATTLEBUS",
+                "OPENTOP",
+                "STEADFAST",
+                "TRANSPORT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GEARHEDZ",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "SCRAPPA"
+            ],
+            "Keywords":[
+                "ORC",
+                "GEARHEDZ",
+                "TROOPS",
+                "SLOW",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GEARGOBZ",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "SCRAPPA"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "GEARHEDZ",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT",
+                "SLOW",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GEARBOSS",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 8,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "SCRAPPA"
+            ],
+            "Keywords":[
+                "ORC",
+                "GEARHEDZ",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT",
+                "SLOW"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GOB-WALKAZ",
+            "Points": 6,
+            "Aim": 2,
+            "Clobba": 2,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 2,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "SCRAPPA",
+                "EXPLOSIVE"
+            ],
+            "Keywords":[
+                "MECH",
+                "GEARHEDZ",
+                "TROOPS",
+                "EXPLOSIVE",
+                "SLOW"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "ROKKALADZ",
+            "Points": 4,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "UNFAZED"
+            ],
+            "Keywords":[
+                "ORC",
+                "ROKKAZ",
+                "TROOPS",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "ROKKABOSS",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 8,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                
+            ],
+            "Passives":[
+                "UNFAZED"
+            ],
+            "Keywords":[
+                "ORC",
+                "ROKKAZ",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "MONSTA-BOMMA",
+            "Points": 2,
+            "Aim": 0,
+            "Clobba": 3,
+            "HP": 1,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "MONSTA MAUL"
+            ],
+            "Abilities": [
+                "LIGHT DA FUSE!"
+            ],
+            "Passives":[
+                "BOOMBITE!"
+            ],
+            "Keywords":[
+                "MONSTA",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT",
+                "PET",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "MONSTA-HOUND",
+            "Points": 2,
+            "Aim": 0,
+            "Clobba": 3,
+            "HP": 1,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "MONSTA MAUL"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "GUARD DOG"
+            ],
+            "Keywords":[
+                "MONSTA",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT",
+                "PET",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "HUNTA BRAWLAZ",
+            "Points": 4,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "TROOPS",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "HUNTA-GOB",
+            "Points": 2,
+            "Aim": 1,
+            "Clobba": 3,
+            "HP": 2,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "HUNTERZ",
+                "TROOPS",
+                "FRAGILE",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "HUNTABOSS",
+            "Points": 8,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 8,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "WARR-LOCK",
+            "Points": 6,
+            "Aim": 3,
+            "Clobba": 4,
+            "HP": 5,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "LAZA-EYES",
+                "SOULSUCKA",
+                "CHARGE!"
+            ],
+            "Passives":[
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "HERO",
+                "SHAMAN",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "HUNTA CAVALRY",
+            "Points": 6,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "MONSTA MAUL"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+                "MOUNTED"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "MONSTA",
+                "TROOPS",
+                "FAST",
+                "MOUNTED",
+                "RASH"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "ALPHAHUNTER ON RAMMONSTA",
+            "Points": 10,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 6,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "MONSTA MAUL"
+            ],
+            "Abilities": [
+                "CHARGE!",
+                "BEAST RAM"
+            ],
+            "Passives":[
+                "MOUNTED"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "MONSTA",
+                "HERO",
+                "FAST",
+                "LEADER",
+                "MOUNTED",
+                "RASH",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GOB-WRANGLA",
+            "Points": 5,
+            "Aim": 2,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 2,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+                "GOBWRANGLIN"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "HERO",
+                "GOB-WRANGLA",
+                "ON FOOT"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GHARNOG SKORCHAHAMMA: DA MINIGUNATOR",
+            "Points": 6,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 8,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "MACHINE GUN"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+                "HE'LL BE BAK",
+                "METAL ENDOSKELINTON",
+                "FREE AGENT",
+                "TERMINATED"
+            ],
+            "Keywords":[
+                "ORC",
+                "HORDE",
+                "MERCENARY",
+                "HERO",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "KOLONEL DRUUK: DA KOMMANDA",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "MEKA-FIST",
+                "SKOPED PISTOL",
+                "GRENADE"
+            ],
+            "Abilities": [
+                "OVERWATCH",
+                "SNEAKIN'",
+                "SPOTTA"
+            ],
+            "Passives":[
+                "INFILTRATIN'",
+                "KUNNIN'",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "HORDE",
+                "MERCENARY",
+                "HERO",
+                "LEADER",
+                "ON FOOT",
+                "RARE",
+                "SPEK-OPS"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "KRAGNARD DA DWORFHATA",
+            "Points": 8,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 1,
+            "StartingGear":[
+                "MEGABLUDGA",
+                "GRENADE"
+            ],
+            "Abilities": [
+                "OVERWATCH"
+            ],
+            "Passives":[
+                "DATZ GOTTA BE A DWORF",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "W.A.R.G.",
+                "TROOPS",
+                "FEEBLE",
+                "ON FOOT",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "ROGG EADBANGA: LORD OF ROKK",
+            "Points": 7,
+            "Aim": 3,
+            "Clobba": 2,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "AXEBLASTA",
+                "SUPA-SPEAKAZ",
+                "BOOMBOX"
+            ],
+            "Abilities": [
+                "'EADBANG"
+            ],
+            "Passives":[
+                "UNFAZED",
+                "GOTTA KEEP ROCKIN'",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "ROKKAZ",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "BARON GIGANTUS",
+            "Points": 10,
+            "Aim": 3,
+            "Clobba": 2,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "BLUDGA",
+                "SKOPED PISTOL",
+                "BOOM-MIC",
+                "SUPA-SPEAKAZ"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "UNFAZED",
+                "JUST WALK AWAY",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "ROKKAZ",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "RUDONK DA RED NOZED GOB",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 1,
+            "HP": 2,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "UNFAZED",
+                "ANNOYING",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "ROKKAZ",
+                "MERCENARY",
+                "HERO",
+                "FRAGILE",
+                "ON FOOT",
+                "RARE",
+                "SMALL"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "SNOZWOT GROTWAZZA: GOB-MASTA",
+            "Points": 12,
+            "Aim": 2,
+            "Clobba": 3,
+            "HP": 4,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "GOB-TAZA",
+                "GOB-WHIP",
+                "SKOPED PISTOL"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+                "GOBWRANGLIN",
+                "GOB-MASTA",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "MERCENARY",
+                "HERO",
+                "GOB-WRANGLA",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "KRATORC",
+            "Points": 8,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "BOOMARAXE"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+                "DUO",
+                "MARKED TARGET",
+                "GRIEF-RAGE",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "MERCENARY",
+                "HERO",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "BOI",
+            "Points": 2,
+            "Aim": 2,
+            "Clobba": 3,
+            "HP": 2,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "HUNTA-BOW"
+            ],
+            "Abilities": [
+                "CHARGE!"
+            ],
+            "Passives":[
+                "DUO",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "GOBLIN",
+                "HUNTERZ",
+                "MERCENARY",
+                "HERO",
+                "FRAGILE",
+                "ON FOOT",
+                "SMALL",
+                "RARE"
+
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "KING RONAK",
+            "Points": 14,
+            "Aim": 2,
+            "Clobba": 4,
+            "HP": 10,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "MEGABLUDGA"
+            ],
+            "Abilities": [
+                "CHARGE!",
+                "SEE DEM DRIVEN BEFORE YOU"
+            ],
+            "Passives":[
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "HUNTERZ",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "LEADER",
+                "ON FOOT",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GRONIK DRARK: DA STEEL LAD",
+            "Points": 10,
+            "Aim": 3,
+            "Clobba": 4,
+            "HP": 5,
+            "Carry": 0,
+            "Armor": 1,
+            "StartingGear":[
+                "FISTS",
+                "BLOWTORCH",
+                "ROKKIT-RIFLE"
+            ],
+            "Abilities": [
+                "JET BOOTZ"
+            ],
+            "Passives":[
+                "SCRAPPA",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "GEARHEDZ",
+                "MECH",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "ON FOOT",
+                "SLOW",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "GITZMOORC",
+            "Points": 12,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 5,
+            "Carry": 0,
+            "Armor": 1,
+            "StartingGear":[
+                "MEKA-SAW",
+                "LAUNCHA-RIFLE",
+                "MONOWHEEL"
+            ],
+            "Abilities": [
+                "SEKRIT IDENTITI"
+            ],
+            "Passives":[
+                "SCRAPPA",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "MECH",
+                "GEARHEDZ",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "FAST",
+                "OFFBALANCE",
+                "ON FOOT",
+                "RASH",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "DA MACHEEN",
+            "Points": 10,
+            "Aim": 1,
+            "Clobba": 4,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "MEKA-KLAW",
+                "MEKA-SAW",
+                "CYBA-LEGS"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "SCRAPPA",
+                "BRAIN SCRAMLIN'"
+            ],
+            "Keywords":[
+                "ORC",
+                "GEARHEDZ",
+                "MECH",
+                "MERCENARY",
+                "HERO",
+                "BULKY",
+                "ON FOOT",
+                "SLOW",
+                "STEADFAST",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "DA VULTUR",
+            "Points": 10,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 6,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "SKOPED PISTOL",
+                "BLUDGA",
+                "ROKKIT-PAK",
+                "CYBA-LEGS"
+            ],
+            "Abilities": [
+                "DIVEBOMA"
+            ],
+            "Passives":[
+                "AGILE",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "MECH",
+                "SPEEDKULT",
+                "HERO",
+                "MERCENARY",
+                "BULKY",
+                "FRAGILE",
+                "LEADER",
+                "ON FOOT",
+                "RASH",
+                "STEADFAST",
+                "RARE"
+            ],
+            "ImgPath": ""
+        },
+        {
+            "Name": "CHARBOG DA ARSONLORD",
+            "Points": 11,
+            "Aim": 3,
+            "Clobba": 3,
+            "HP": 8,
+            "Carry": 0,
+            "Armor": 0,
+            "StartingGear":[
+                "FISTS",
+                "FIRE-AXE",
+                "FLAMA-TANK"
+            ],
+            "Abilities": [
+            ],
+            "Passives":[
+                "AGILE",
+                "FIREPROOF",
+                "FREE AGENT"
+            ],
+            "Keywords":[
+                "ORC",
+                "SPEEDKULT",
+                "HERO",
+                "MERCENARY",
+                "BULKY",
+                "FRAGILE",
+                "LEADER",
+                "ON FOOT",
+                "RASH",
+                "RARE"
+            ],
+            "ImgPath": ""
+        }
+    ]
+}

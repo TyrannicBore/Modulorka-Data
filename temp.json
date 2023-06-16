@@ -1,0 +1,32 @@
+{
+    "ClassTemplate":    
+        {
+        "Name": "",
+        "Points": 0,
+        "Aim": 0,
+        "Clobba": 0,
+        "HP": 0,
+        "Carry": 0,
+        "Armor": 0,
+        "Abilities": [
+            ""
+        ],
+        "Passives":[
+
+        ],
+        "Keywords":[
+
+        ],
+        "imgPath": ""
+    },
+    "WargearTemplate":{
+
+    },
+    "AbilityTemplate":{
+
+    },
+    "PassiveTemplate":{
+        
+    }
+    
+}

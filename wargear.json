@@ -1,0 +1,280 @@
+{
+    "wargear":[
+        {
+            "name":"FISTS",
+            "type":"melee weapon",
+            "points": 0,
+            "range": 0,
+            "power": 1,
+            "carry": 0,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ]
+        },
+        {
+            "name":"MONSTA MAUL",
+            "type":"melee weapon",
+            "points": 0,
+            "range": 0,
+            "power": 2,
+            "carry": 0,
+            "ammo": null,
+            "required":[
+                "monsta"
+            ]
+        },
+        {
+            "name":"RAM",
+            "type":"melee weapon",
+            "points": 0,
+            "range": 0,
+            "power": 1,
+            "carry": 0,
+            "ammo": null,
+            "required":[
+                "vehicle"
+            ]
+        },
+        {
+            "name":"PISTOL",
+            "type":"ranged weapon",
+            "points": 0,
+            "range": 12,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ]
+        },
+        {
+            "name":"SKOPED PISTOL",
+            "type":"ranged weapon",
+            "points": 1,
+            "range": 22,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "STOPPIN' POWAH"
+            ]
+        },
+        {
+            "name":"BLUDGA",
+            "type":"melee weapon",
+            "points": 0,
+            "range": 0,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ]
+        },
+        {
+            "name":"MEGABLUDGA",
+            "type":"melee weapon",
+            "points": 2,
+            "range": 0,
+            "power": 2,
+            "carry": 2,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "BRUTAL",
+                "CRITICAL HITTA"
+            ]
+        },
+        {
+            "name":"MEKA-KLAW",
+            "type":"melee weapon",
+            "points": 2,
+            "range": 0,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "KRUSH",
+                "CRITICAL HITTA",
+                "KOMBINED ARMZ"
+            ]
+        },
+        {
+            "name":"MEKA-FIST",
+            "type":"melee weapon",
+            "points": 2,
+            "range": 0,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "ROUNDHOUSE",
+                "CRITICAL HITTA",
+                "KOMBINED ARMZ"
+            ]
+        },
+        {
+            "name":"MEKA-PIERCA",
+            "type":"melee weapon",
+            "points": 2,
+            "range": 0,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "SKREW ARMOR",
+                "CRITICAL HITTA",
+                "KOMBINED ARMZ"
+            ]
+        },
+        {
+            "name":"MEKA-SAW",
+            "type":"melee weapon",
+            "points": 3,
+            "range": 0,
+            "power": 2,
+            "carry": 1,
+            "ammo": null,
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "BLADESPINNA",
+                "CRITICAL HITTA",
+                "KOMBINED ARMZ"
+            ]
+        },
+        {
+            "name":"FLAMA",
+            "type":"ranged weapon",
+            "points": 1,
+            "range": 6,
+            "power": 1,
+            "carry": 2,
+            "ammo": "1",
+            "required":[
+                "orc",
+                "goblin",
+                "mech",
+                "vehicle"
+            ],
+            "passive":[
+                "FLAMETHROWA"
+            ],
+            "ability":[
+                "RELOAD"
+            ]
+        },
+        {
+            "name":"BAZOOKA",
+            "type":"ranged weapon",
+            "points": 1,
+            "range": 22,
+            "power": 2,
+            "carry": 2,
+            "ammo": "1",
+            "required":[
+                "orc",
+                "goblin",
+                "mech",
+                "vehicle"
+            ],
+            "passive":[
+                "ANTI-ARMOR"
+            ],
+            "ability":[
+                "RELOAD"
+            ]
+        },
+        {
+            "name":"FLAMA-RIFLE",
+            "type":"ranged weapon",
+            "points": 2,
+            "range": "2-22(A) / 4(B)",
+            "power": "2(A) / 1(B)",
+            "carry": 2,
+            "ammo": "null(A) / 1(B)",
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "KUSTOM RIFLE",
+                "MODE(A) STOPPIN' POWAH",
+                "MODE(B) FLAMETHROWA"
+            ]
+        },
+        {
+            "name":"LAUNCHA-RIFLE",
+            "type":"ranged weapon",
+            "points": 2,
+            "range": "2-22(A) / 2-22(B)",
+            "power": "2(A) / 2(B)",
+            "carry": 2,
+            "ammo": "null(A) / 1(B)",
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "KUSTOM RIFLE",
+                "MODE(A) STOPPIN' POWAH",
+                "MODE(B) GRENADE LAUNCHA"
+            ]
+        },
+        {
+            "name":"BAZOOKA-RIFLE",
+            "type":"ranged weapon",
+            "points": 2,
+            "range": "2-22(A) / 12(B)",
+            "power": "2(A) / 2(B)",
+            "carry": 2,
+            "ammo": "null(A) / 1(B)",
+            "required":[
+                "orc",
+                "goblin",
+                "mech"
+            ],
+            "passive":[
+                "KUSTOM RIFLE",
+                "MODE(A) STOPPIN' POWAH",
+                "MODE(B) ROKKIT LAUNCHA"
+            ]
+        }
+    ]
+}
